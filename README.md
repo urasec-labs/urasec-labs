@@ -24,7 +24,7 @@
 Focused on **Defensive Security**, **Log Analysis Systems**, and **AI/LLM Threat Detection**. Building security automation tooling under the **UraSec Labs** umbrella and actively contributing to open-source initiatives.
 
 - 🛡️ **UraSec Labs:** Research and development of DevSecOps pipelines and threat analysis models.
-- 👥 **Community & Open Source:** Founder of **Siber Kod** tech community; open-source writer and contributor to **Pardus Linux**.
+- 👥 **Open Source:** Open-source writer and contributor to **Pardus Linux**.
 - 📍 **Location:** Turkey
 
 ---
@@ -67,13 +67,7 @@ Focused on **Defensive Security**, **Log Analysis Systems**, and **AI/LLM Threat
 
 ## 🔬 Key Engineering Initiatives
 
-├── UraSec Labs / Core Engineering
-│   ├── Suture         ──> DevSecOps Automation & Vulnerability Pipeline
-│   ├── VeraSens       ──> AI-Assisted Social Engineering & Sentiment Analysis
-│   └── BorsaSignal    ──> Automated Technical Analysis & Algorithmic Engine
-└── Open Source & Community
-├── Siber Kod      ──> Non-profit Student Cybersecurity & Tech Community
-└── Pardus Linux   ──> Open-Source Contributions & Technical Documentation
+Under the UraSec Labs umbrella, core security engineering efforts focus on Suture, an automated DevSecOps vulnerability scanning pipeline, and VeraSens, an AI-driven platform for social engineering detection and sentiment analysis. Additionally, BorsaSignal serves as an algorithmic engine designed for automated financial technical analysis and signal generation. On the open-source and community front, Siber Kod operates as an independent student community dedicated to cybersecurity and software development, while active contributions—including open-source codebase enhancements and technical documentation—are delivered to the Pardus Linux project.
 
 
 ---
