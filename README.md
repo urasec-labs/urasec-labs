@@ -1,17 +1,4 @@
-Tam profesyonel, siber güvenlik şirketleri ve açık kaynak organizasyonlarının standartlarında tasarlanmış GitHub Profile README şablonu aşağıdadır.
 
-ÖÖğeler arasında dinamik akış, minimal dark-theme badge mimarisi ve canlı grafikler eklendi.
-
-Adım Adım Kurulum
-github.com/new adresine git.
-
-Repository adını urasec-labs yaz (Public olmalı).
-
-Add a README file seçeneğini işaretleyip repoyu oluştur.
-
-Dosyaya girip aşağıdaki kodu doğrudan yapıştır ve kaydet (Commit changes).
-
-Markdown
 <div align="center">
 
   <h1><code>Uras Akas</code></h1>
